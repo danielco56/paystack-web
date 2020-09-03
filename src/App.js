@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import { PaystackButton } from "react-paystack";
 import "./App.css";
+import "./App-override.css";
 
 const App = () => {
   const publicKey = "pk_test_d996571193ad2e4d98f221223550745c0913cc16";
